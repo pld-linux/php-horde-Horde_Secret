@@ -18,7 +18,7 @@ BuildRequires:	rpmbuild(macros) >= 1.610
 Requires:	php-channel(pear.horde.org)
 Requires:	php-hash
 Requires:	php-horde-Horde_Exception < 2.0.0
-Requires:	php-pear
+Requires:	php-pear >= 4:1.3.6-2
 Requires:	php-pear-Crypt_Blowfish >= 1.0.1
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
