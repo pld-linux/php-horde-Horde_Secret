@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	b452e1b6361274d84ea194c846020919
-URL:		http://pear.horde.org/package/Horde_Secret/
+URL:		https://github.com/horde/horde/tree/master/framework/Secret/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
