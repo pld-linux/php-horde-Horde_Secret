@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Secret Encryption API
 Name:		php-horde-Horde_Secret
-Version:	1.0.0
+Version:	1.0.2
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	b452e1b6361274d84ea194c846020919
+# Source0-md5:	646169b73f643374e092261f120cdca3
 URL:		https://github.com/horde/horde/tree/master/framework/Secret/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
