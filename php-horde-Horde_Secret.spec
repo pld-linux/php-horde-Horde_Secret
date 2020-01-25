@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Secret
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Secret Encryption API
 Name:		php-horde-Horde_Secret
 Version:	1.0.2
