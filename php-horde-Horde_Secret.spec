@@ -3,7 +3,7 @@
 Summary:	%{pearname} - Secret Encryption API
 Name:		php-horde-Horde_Secret
 Version:	1.0.2
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
